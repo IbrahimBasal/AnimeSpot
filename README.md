@@ -19,6 +19,8 @@ Finally, make a connection with database from Power BI to make a Descriptive Ana
 4- Returned >> it's 3 Cards (Total Purchase return - Returned Quantity - Returned Orders) and 4 Charts for Total Purchase return Per (Each Reason and Their Quantity - ProductCode - Each Store and Their Quantity - Each Brand and Their Quantity)
 
 
+NovyPro Link : 
+
 
 Power Pivot Calculations ScreenShoots
 ![Screenshot (607)](https://github.com/IbrahimBasal/AnimeSpot/assets/71732836/cee07343-c69c-4eb7-a3d7-c3ed12ddd76f)
